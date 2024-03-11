@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#100D0D</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="F_name">Full Name</string>
+    <string name="Sign_Up">Sign Up</string>
+    <string name="app_name">RegisterPage</string>
+    <string name="button">Sign up</string>
+    <string name="email">Email</string>
+    <string name="or_signup">Or Sign up with</string>
+    <string name="password">Password</string>
+    <string name="re_pass">Re-Type Password</string>
+    <string name="sign_in">Already a member? Sign in</string>
+    <string name="u_name">Username</string>
+    <style name="Base.Theme.RegisterPage" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.RegisterPage" parent="Base.Theme.RegisterPage"/>
+</resources>
