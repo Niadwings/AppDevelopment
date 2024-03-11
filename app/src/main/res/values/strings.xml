@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login.Page</string>
+    <string name="Sign_in">Sign in</string>
+    <string name="user_name">Username</string>
+    <string name="pass_word">Password</string>
+    <string name="f_pass">Forgot password?</string>
+    <string name="button">Sign in</string>
+    <string name="Signin_with">Sign in with</string>
+    <string name="Register">Not a member yet? Register</string>
+</resources>
